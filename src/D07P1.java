@@ -7,7 +7,7 @@ public class D07P1 {
 	public static int ans() {
 		int ans = 0;
 		
-		File file = new File("inputs/d7.txt");
+		File file = new File("inputs/d-07.txt");
 
 		// the key insight is that the optimal spot is just the
 		// closest integer to the median

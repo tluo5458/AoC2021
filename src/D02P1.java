@@ -4,7 +4,7 @@ import java.io.FileReader;
 
 public class D02P1 {
 	public static int ans() {
-		File file = new File("inputs/d2.txt");
+		File file = new File("inputs/d-02.txt");
 
 		int x = 0;
 		int y = 0;

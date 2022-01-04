@@ -62,7 +62,7 @@ public class D04P2 {
 	}
 	
 	public static int ans() {
-		File file = new File("inputs/d4.txt");
+		File file = new File("inputs/d-04.txt");
 
 		ArrayList<BingoBoard> boards = new ArrayList<BingoBoard>();
 		BingoBoard curr = null;

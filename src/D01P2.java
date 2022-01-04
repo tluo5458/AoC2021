@@ -6,7 +6,7 @@ public class D01P2 {
 	public static int ans() {
 		int ans = 0;
 		
-		File file = new File("inputs/d1.txt");
+		File file = new File("inputs/d-01.txt");
 
 		BufferedReader br;
 		String st;

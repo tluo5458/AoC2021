@@ -5,7 +5,7 @@ import java.util.ArrayList;
 
 public class D03P2 {
 	public static int ans() {
-		File file = new File("inputs/d3.txt");
+		File file = new File("inputs/d-03.txt");
 		
 		ArrayList<String> oReads = new ArrayList<String>();
 		ArrayList<String> cReads = new ArrayList<String>();

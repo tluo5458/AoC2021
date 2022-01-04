@@ -7,7 +7,7 @@ public class D09P1 {
 	public static int ans() {
 		int ans = 0;
 		
-		File file = new File("inputs/d9.txt");
+		File file = new File("inputs/d-09.txt");
 		
 		ArrayList<String> lines = new ArrayList<String>();
 		BufferedReader br;

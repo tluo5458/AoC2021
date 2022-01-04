@@ -6,7 +6,7 @@ public class Template {
 	public static int ans() {
 		int ans = 0;
 		
-		File file = new File("filename");
+		File file = new File("inputs/d-xx.txt");
 
 		BufferedReader br;
 		String st;

@@ -21,7 +21,7 @@ public class D05P2 {
 	public static int ans() {
 		int ans = 0;
 		
-		File file = new File("inputs/d5.txt");
+		File file = new File("inputs/d-05.txt");
 
 		ArrayList<Segment> vents = new ArrayList<Segment>();
 		BufferedReader br;

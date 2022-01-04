@@ -4,7 +4,7 @@ import java.io.FileReader;
 
 public class D03P1 {
 	public static int ans() {
-		File file = new File("inputs/d3.txt");
+		File file = new File("inputs/d-03.txt");
 		
 		// array keeping track of difference between # of 1's encountered
 		// so far and # of 0's encountered

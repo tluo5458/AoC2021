@@ -7,7 +7,7 @@ public class D07P2 {
 	public static int ans() {
 		int ans = 0;
 		
-		File file = new File("inputs/d7.txt");
+		File file = new File("inputs/d-07.txt");
 
 		// here, the same shifting argument as last time applies
 		// when you shift by 1, the total cost decreases by the old sum 

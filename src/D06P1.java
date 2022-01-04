@@ -28,7 +28,7 @@ public class D06P1 {
 	public static int ans() {
 		int ans = 0;
 		
-		File file = new File("inputs/d6.txt");
+		File file = new File("inputs/d-06.txt");
 
 		// fish[i] = how many fish have counter i
 		int[] fish = new int[9];

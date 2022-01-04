@@ -30,7 +30,7 @@ public class D06P2 {
 	public static long ans() {
 		long ans = 0;
 		
-		File file = new File("inputs/d6.txt");
+		File file = new File("inputs/d-06.txt");
 
 		// fish[i] = how many fish have counter i
 		long[] fish = new long[9];

@@ -134,7 +134,7 @@ public class D08P2 {
 	public static int ans() {
 		int ans = 0;
 		
-		File file = new File("inputs/d8.txt");
+		File file = new File("inputs/d-08.txt");
 
 		BufferedReader br;
 		String st;
