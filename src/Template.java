@@ -13,7 +13,7 @@ public class Template {
 		try {
 			br = new BufferedReader(new FileReader(file));
 			while ((st = br.readLine()) != null) {
-				// do things
+				// we do a bit of parsing
 			}
 		} catch (Exception e) {
 			e.printStackTrace();
