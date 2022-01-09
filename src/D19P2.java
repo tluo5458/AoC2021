@@ -5,7 +5,12 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Stack;
 
-public class D19P2 {	
+public class D19P2 {
+	// pretty much identical to P1, with the exception of the ending
+	// this no longer combines the scanners; it traverses the final
+	// tree for each element, doing all of the transformations on the
+	// way to find the location of each scanner
+	// and finally just brute force the maximum manhattan distance
 	public static final Rotation[] ROTS = 
 		{
 				new Rotation(new int[][] {{1, 0, 0}, {0, 1, 0}, {0, 0, 1}}),
